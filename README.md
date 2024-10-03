@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Rawipas-2145/Rawipas-2145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> [![trophy](https://github-profile-trophy.vercel.app/?username=Rawipas-2145)](https://github.com/ryo-ma/github-profile-trophy)
+-->
